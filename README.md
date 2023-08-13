@@ -12,5 +12,5 @@ save phonebook to file
 
 
 
-Written in Java 7 and use Swing GUI
+Written in Java 7 and uses Swing GUI
 
